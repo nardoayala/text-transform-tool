@@ -1,5 +1,7 @@
+import Home from './pages/Home';
+import transformOptions from './utils/transformOptions';
+
 const App = document.getElementById('app');
 
-App.innerHTML = `
-  <h1>Hey There!</h1>
-`;
+App.innerHTML = Home();
+transformOptions();

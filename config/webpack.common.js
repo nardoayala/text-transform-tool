@@ -24,7 +24,7 @@ module.exports = {
 
       },
       {
-        test: /\.(s*)css$/,
+        test: /\.css$/,
         use: [
           'style-loader',
           {
@@ -35,12 +35,6 @@ module.exports = {
           },
           {
             loader: 'postcss-loader',
-            options: {
-              sourceMap: true,
-            },
-          },
-          {
-            loader: 'sass-loader',
             options: {
               sourceMap: true,
             },
