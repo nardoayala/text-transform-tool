@@ -1,7 +1,7 @@
 {
-  "name": "text-transform-tool",
-  "version": "1.0.0",
-  "description": "🛠A simple text transformation tool built with JavaScript",
+  "name": "switch-case",
+  "version": "1.1.0",
+  "description": "A simple text transformation tool built with JavaScript",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nardoyala/text-transform-tool.git"
+    "url": "git+https://github.com/nardoyala/switch-case.git"
   },
   "keywords": [],
   "author": "Bernardo Ayala <ba@bernardoayala.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nardoyala/text-transform-tool/issues"
+    "url": "https://github.com/nardoyala/switch-case/issues"
   },
-  "homepage": "https://github.com/nardoyala/text-transform-tool#readme",
+  "homepage": "https://github.com/nardoyala/switch-case#readme",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/eslint-parser": "^7.12.1",
