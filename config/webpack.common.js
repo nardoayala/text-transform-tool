@@ -64,7 +64,8 @@ module.exports = {
     }),
 
     new HtmlWebpackPlugin({
-      title: 'Text Transform',
+      title: 'Text transform tool',
+      favicon: `${paths.public}/favicon.ico`,
       template: `${paths.src}/template.html`,
       filename: 'index.html',
     }),

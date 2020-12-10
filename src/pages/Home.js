@@ -4,8 +4,8 @@ import '../styles/main.css';
 const Home = () => {
   const view = `
     <header>
-      <h1>Text transformation tool</h1>
-      <p>A simple tool to transform your text between lower, upper and capital case.</p>
+      <h1>Text transform tool</h1>
+      <p>A simple tool to transform text between lowercase, capitalcase, uppercase, and sentencecase.</p>
     </header>
     ${TextArea()}
   `;

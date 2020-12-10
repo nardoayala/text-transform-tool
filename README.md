@@ -4,6 +4,12 @@
 
 A simple text transformation tool for switching between sentence, capital, lower and upper case built with JavaScript
 
+## Demo
+
+You can have a look on [https://nardoyala.github.io/text-transform-tool/](https://nardoyala.github.io/text-transform-tool/)
+
+![Screenshot](https://github.com/nardoyala/text-transform-tool/tree/main/public/screenshot.png)
+
 ## Installation
 
 Clone this repo and npm install
