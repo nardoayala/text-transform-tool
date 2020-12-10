@@ -10,7 +10,7 @@ module.exports = merge(common, {
   devtool: false,
   output: {
     path: paths.build,
-    publicPath: '/switch-case',
+    publicPath: '/text-transform-tool',
     filename: 'js/[name].[contenthash].build.js',
   },
   module: {
