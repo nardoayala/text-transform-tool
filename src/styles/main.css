@@ -51,7 +51,7 @@ header {
 }
 header p {
   margin-top: 15px;
-  max-width: 350px;
+  max-width: 500px;
 }
 .text-area {
   display: flex;
